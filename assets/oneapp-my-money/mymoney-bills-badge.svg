@@ -1,0 +1,14 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#bills-clip)">
+    <g filter="url(#bills-shadow)">
+      <mask id="bills-mask" fill="white"><path d="M0 8C0 3.58172 3.58172 0 8 0H72C76.4183 0 80 3.58172 80 8V72C80 76.4183 76.4183 80 72 80H8C3.58172 80 0 76.4183 0 72V8Z"/></mask>
+      <path d="M0 8C0 3.58172 3.58172 0 8 0H72C76.4183 0 80 3.58172 80 8V72C80 76.4183 76.4183 80 72 80H8C3.58172 80 0 76.4183 0 72V8Z" fill="#ECE0FF"/>
+      <path d="M8 0V1.2H72V0V-1.2H8V0ZM80 8H78.8V72H80H81.2V8H80ZM72 80V78.8H8V80V81.2H72V80ZM0 72H1.2V8H0H-1.2V72H0ZM8 80V78.8C4.24447 78.8 1.2 75.7555 1.2 72H0H-1.2C-1.2 77.081 2.91898 81.2 8 81.2V80ZM80 72H78.8C78.8 75.7555 75.7555 78.8 72 78.8V80V81.2C77.081 81.2 81.2 77.081 81.2 72H80ZM72 0V1.2C75.7555 1.2 78.8 4.24446 78.8 8H80H81.2C81.2 2.91898 77.081 -1.2 72 -1.2V0ZM8 0V-1.2C2.91898 -1.2 -1.2 2.91898 -1.2 8H0H1.2C1.2 4.24447 4.24446 1.2 8 1.2V0Z" fill="#E8EAEC" mask="url(#bills-mask)"/>
+      <path d="M40 38.3334H44.1667H48.3333M40 31.6666H44.1667H48.3333M33.3333 45V25.6C33.3333 25.2686 33.602 25 33.9333 25H54.4C54.7314 25 55 25.2686 55 25.6V51C55 53.209 53.2094 55 51.0003 55H48.3333M26.9999 45H41.0666C41.398 45 41.6692 45.2648 41.6884 45.5956C41.8135 47.7484 42.6562 55 48.3333 55H27.9999C26.3431 55 24.9999 53.657 24.9999 52V47C24.9999 45.8954 25.8953 45 26.9999 45Z" stroke="#051958" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <defs>
+    <filter id="bills-shadow" x="-24" y="-22" width="130" height="130" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/><feOffset dx="1" dy="3"/><feGaussianBlur stdDeviation="12.5"/><feColorMatrix type="matrix" values="0 0 0 0 0.247059 0 0 0 0 0.239216 0 0 0 0 0.337255 0 0 0 0.03 0"/><feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/><feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/></filter>
+    <clipPath id="bills-clip"><path d="M0 8C0 3.58172 3.58172 0 8 0H72C76.4183 0 80 3.58172 80 8V72C80 76.4183 76.4183 80 72 80H8C3.58172 80 0 76.4183 0 72V8Z" fill="white"/></clipPath>
+  </defs>
+</svg>
