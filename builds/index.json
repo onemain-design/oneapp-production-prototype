@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "currentBuildId": "2026-10-21T18-56-06Z-dc08566",
+  "builds": [
+    {
+      "schemaVersion": 1,
+      "projectId": "oneapp-production-prototype",
+      "buildId": "2026-10-21T18-56-06Z-dc08566",
+      "commitSha": "dc08566625091ffc00921ad18fd715c04de6d799",
+      "builtAt": "2026-10-21T18:56:06.014Z",
+      "artifactUrl": "/oneapp-production-prototype/",
+      "status": "current"
+    }
+  ]
+}
